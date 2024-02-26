@@ -3,7 +3,7 @@
 Data Science for Global Manager
 2024
 # Introduction
-**Sergio Maceda**
++**Sergio Maceda**
 
  *I have had a hunder jobs in a hunder countries*
 
